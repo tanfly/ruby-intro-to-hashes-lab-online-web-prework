@@ -24,4 +24,3 @@ monopoly = {:railroads => {:pieces => 4, :names => {:reading_railroad =>{}, :pen
 	}
 	end	
 end
-end
